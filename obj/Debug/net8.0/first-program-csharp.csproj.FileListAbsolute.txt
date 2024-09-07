@@ -1,0 +1,15 @@
+C:\Temp\ws-vscode\first-program-csharp\bin\Debug\net8.0\first-program-csharp.exe
+C:\Temp\ws-vscode\first-program-csharp\bin\Debug\net8.0\first-program-csharp.deps.json
+C:\Temp\ws-vscode\first-program-csharp\bin\Debug\net8.0\first-program-csharp.runtimeconfig.json
+C:\Temp\ws-vscode\first-program-csharp\bin\Debug\net8.0\first-program-csharp.dll
+C:\Temp\ws-vscode\first-program-csharp\bin\Debug\net8.0\first-program-csharp.pdb
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.AssemblyInfoInputs.cache
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.AssemblyInfo.cs
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.sourcelink.json
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.dll
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\refint\first-program-csharp.dll
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.pdb
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\first-program-csharp.genruntimeconfig.cache
+C:\Temp\ws-vscode\first-program-csharp\obj\Debug\net8.0\ref\first-program-csharp.dll
